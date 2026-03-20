@@ -26,6 +26,6 @@ Technical Writing Coursework: Kansas State University Salina (In Progress).Capst
 
 Email: maswildlabs@gmail.com 
 
-LinkedIn: linkedin.com/in/stephanierwilder
+LinkedIn: http://linkedin.com/in/stephanierwilder
 
-Portfolio: github.com/maswildlabs 
+Portfolio: http://github.com/maswildlabs 
